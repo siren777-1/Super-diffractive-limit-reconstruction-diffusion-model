@@ -1,17 +1,4 @@
 # Super-diffractive-limit-reconstruction-diffusion-model
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-生成 README.md 文件，用于论文项目：
-A Hybrid DDPM for Sub-Diffraction Target Recovery
-"""
-
-def generate_readme():
-    content = """# A Hybrid DDPM for Sub-Diffraction Target Recovery
-
-This repository contains the official implementation of the paper  
-**"Super-diffractive-limit-reconstruction-diffusion-model"**.
-
 ---
 
 ## 📘 Overview
@@ -64,7 +51,4 @@ This implementation is based on **PyTorch** and tested on:
 - **cuDNN:** 8  
 - **Python:** 3.8+
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
 
