@@ -4,17 +4,12 @@
 ## 📘 Overview
 
 This project proposes a hybrid Denoising Diffusion Probabilistic Model (DDPM) that surpasses the diffraction limit for sub-diffraction target recovery.  
-The model integrates spatial and channel attention mechanisms, including **SCAU** (Selective Channel Attention Unit) and **SGFE** (Spatial Gated Feature Enhancement), to recover high-frequency details that conventional methods fail to reconstruct.
+The model integrates spatial and channel attention mechanisms, including **SCAU** and **SGFE** , to recover high-frequency details that conventional methods fail to reconstruct.
 
 ---
 
 ## 🏗️ Project Structure
-main/
-├── models/ # Core model implementations (SCAU, SGFE, hybrid DDPM, etc.)
-├── train.py # Training script (to be added)
-├── inference.py # Inference/testing script (to be added)
-└── README.md
-
+ models/ # Core model implementations (SCAU, SGFE, hybrid DDPM, etc.)
 
 ---
 
@@ -26,18 +21,6 @@ The experiments are conducted on:
 
 👉 **Dataset Download Link (to be inserted later):**  
 `[Insert dataset link here once available]`
-
-Please organize the dataset as follows:
-datasets/
-├── real/
-│ ├── train/
-│ ├── val/
-│ └── test/
-└── synthetic/
-├── train/
-├── val/
-└── test/
-
 
 ---
 
