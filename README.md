@@ -18,9 +18,9 @@ The model integrates spatial and channel attention mechanisms, including **SCAU*
 The experiments are conducted on:
 1. A **real-world dataset**, and  
 2. A **synthetic dataset** simulated from three public benchmarks.
-
-👉 **Dataset Download Link (to be inserted later):**  
-`[Insert dataset link here once available]`
+Due to institutional restrictions, the full dataset cannot be publicly released. However, we have provided representative samples and key code descriptions at
+👉 **Dataset Download Link:**  
+`[https://pan.baidu.com/s/1UIsFMfnWuA010w94MD9xDA?pwd=wxvi 提取码: wxvi]`
 
 ---
 
