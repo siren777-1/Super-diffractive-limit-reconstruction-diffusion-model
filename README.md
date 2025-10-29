@@ -9,8 +9,8 @@ The model integrates spatial and channel attention mechanisms, including **SCAU*
 ---
 
 ## 🏗️ Project Structure
- models/ # Core model implementations (SCAU, SGFE, hybrid DDPM, etc.)
-
+ models/ # Core model implementations (SCAU and SGFE)
+diffusion/ # Core model implementations (SR DDPM, etc.)
 ---
 
 ## 📂 Dataset
